@@ -1,0 +1,458 @@
+item{
+	id: 1
+	name: 'Nestle_Ovsyanaya_kasha'
+}
+
+item{
+	id: 2
+     	name: 'Nestle_Risovaya_kasha'
+}
+
+item{
+	id: 3
+	name: 'Nestle_Grechnevaya_kasha'
+}
+
+item{
+	id: 4
+	name: 'Nestle_Grechnevaya_kasha_BM'
+}
+
+item{
+	id: 5
+	name: 'Tema_Chicken_bee'
+}
+
+item{
+	id: 6
+	name: 'Heinz_Apple_pure'
+}
+
+item{
+	id: 7
+	name: 'Sadi_Pridoniya_pure_apple'
+}
+
+item{
+	id: 8
+	name: 'Galavani_Kindzmarauli'
+}
+
+item{
+	id: 9
+	name: 'Soda_pischevaya'
+} 
+
+item{
+	id:10
+	name: 'Egoiste_cafe_noir' 
+}
+
+item{
+	id: 11
+	name: 'Nestle_Nesquik_kakao'
+}
+
+item{
+	id: 12
+     name: 'Babaevsky_Vdohnoveniye'
+}
+
+item{
+	id: 13
+	name: 'Hlebny_Spas_ovsyanoe'
+}
+
+item{
+	id: 14
+	name: 'Happy_corn_pop_corn'
+}
+
+item{
+	id: 15
+	name: 'Platinum_maslo_tmina'
+}
+
+item{
+	id: 16
+	name: 'Nestle_Nesquik_choco'
+}
+
+item{
+	id: 17
+	name: 'Myllyn_Paras_4_zernovaya_kasha'
+}
+
+item{
+	id: 18
+	name: 'Babkini_semechki'
+}
+
+item{
+	id: 19
+	name: 'Ice_Palace_Tiramisu'
+} 
+item{
+	id:20
+	name: 'Lenta_Maslo_slivochnoe450' 
+}
+item{
+	id: 21
+	name: 'Nestle_Nesquik_kakao'
+}
+item{
+	id: 22
+     name: 'Babaevsky_Vdohnoveniye'
+}
+item{
+	id: 23
+	name: 'Hlebny_Spas_ovsyanoe'
+}
+item{
+	id: 24
+	name: 'Happy_corn_pop_corn'
+}
+item{
+	id: 25
+	name: 'Platinum_maslo_tmina'
+}
+item{
+	id: 26
+	name: 'Nestle_Nesquik_choco'
+}
+item{
+	id: 27
+	name: 'Myllyn_Paras_4_zernovaya_kasha'
+}
+item{
+	id: 28
+	name: 'Babkini_semechki'
+}
+item{
+	id: 29
+	name: 'Ice_Palace_Tiramisu'
+} 
+item{
+	id: 30
+	name: 'Lenta_Maslo_slivochnoe450'
+}
+item{
+	id: 31
+	name: 'Ice_Palace_3Choc'
+}
+item{
+	id: 32
+     name: 'Nevskaya_kosmetika_ushastiy_nyan_krem_milo'
+}
+item{
+	id: 33
+	name: 'Nevskaya_kosmetika_ushastiy_nyan_gel'
+}
+item{
+	id: 34
+	name: 'Givenchy_rumyana_04'
+}
+item{
+	id: 35
+	name: 'Givenchy_rumyana_07'
+}
+item{
+	id: 36
+	name: 'Base_universal_tonik'
+}
+item{
+	id: 37
+	name:  'Neovita_eye_care'
+}
+item{
+	id: 38
+	name: 'Neovita_de_make_up'
+}
+item{
+	id: 39
+	name: 'Max_Factor_Pan_stick'
+} 
+item{
+	id: 40
+	name: 'Rocs_Delicate_whitening' 
+}
+item{
+	id: 41
+	name: 'Parliament_aqua_blue'
+}
+item{
+	id: 42
+     	name: 'Parliament_pline'
+}
+item{
+	id: 43
+	name: 'Fine_le_ris_propareniy'
+}
+item{
+	id: 44
+	name: 'Nemoloko_ovsyanoe_classic'
+}
+item{
+	id: 45
+	name: 'Voda_senegskaya_gaz'
+}
+item{
+	id: 46
+	name: 'Johnson_utenok'
+}
+item{
+	id: 47
+	name: 'Toothpaste_zact_lion'
+}
+item{
+	id: 48
+	name: 'Isme_rasyan'
+}
+item{
+	id: 49
+	name: 'blendamed_3dwhite'
+} 
+item{
+	id: 50
+	name: 'Rochjana_Asiatic'
+}
+item{
+	id: 51
+	name: 'Unic'
+}
+item{
+	id: 52
+     name: 'Krasnaya_cena_spichki'
+}
+item{
+	id: 53
+	name: 'Styx_basisol'
+}
+item{
+	id: 54
+	name: 'Studio_up'
+}
+item{
+	id: 55
+	name: 'Bioderma'
+}
+item{
+	id: 56
+	name: 'Concept_blonde'
+}
+item{
+	id: 57
+	name: 'H2O_infinity'
+}
+item{
+	id: 58
+	name: 'Tropicana'
+}
+item{
+	id: 59
+	name: 'Kotanyi_perechnaya_smes'
+} 
+item{
+	id:60
+	name: 'Cherniu_gracon_chai'
+}
+item{
+	id: 61
+	name: 'Ogilvi_reklama'
+}
+item{
+	id: 62
+     name: 'Dikkens_lavka'
+}
+item{
+	id: 63
+	name: 'Carebeau'
+}
+item{
+	id: 64
+	name: 'Persic_krem'
+}
+item{
+	id: 65
+	name: 'Chanel_le_weekend'
+}
+item{
+	id: 66
+	name: '50_kopeek'
+}
+item{
+	id: 67
+	name: 'Roobins'
+}
+item{
+	id: 68
+	name: 'MaLone'
+}
+item{
+	id: 69
+	name: 'Armani'
+} 
+item{
+	id: 70
+	name:  'AND'
+}
+item{
+	id: 71
+	name: 'Inglot'
+}
+item{
+	id: 72
+     name: 'Eveline'
+}
+item{
+	id: 73
+	name: 'Panasonic'
+}
+item{
+	id: 74
+	name: 'Lancome_Idole'
+}
+item{
+	id: 75
+	name: 'Valet_chervi'
+}
+item{
+	id: 76
+	name: 'Semerka_bubi'
+}
+item{
+	id: 77
+	name:  'Karti_suvenir'
+}
+item{
+	id: 78
+	name: 'kub'
+}
+item{
+	id: 79
+	name: 'vip'
+} 
+item{
+	id: 80
+	name: 'Magnolia'
+}
+item{
+	id: 81
+	name: 'Muz_silver'
+}
+item{
+	id: 82
+     	name: 'Karcher'
+}
+item{
+	id: 83
+	name: 'Blacky_dress'
+}
+item{
+	id: 84
+	name: 'Zdorov.ru'
+}
+item{
+	id: 85
+	name: 'IQtoy'
+}
+item{
+	id: 86
+	name: 'Vkusomaniya'
+}
+item{
+	id: 87
+	name: 'Rendez_vous'
+}
+item{
+	id: 88
+	name: 'Gantil'
+}
+item{
+	id: 89
+	name: 'Kantata'
+} 
+item{
+	id:90
+	name: 'Inventive_retail'
+}
+item{
+	id: 91
+	name: 'Zewa_kids'
+}
+item{
+	id: 92
+     name: 'babochka'
+}
+item{
+	id: 93
+	name: 'Chitai_gorod'
+}
+item{
+	id: 94
+	name: 'Chief'
+}
+item{
+	id: 95
+	name: '500_rub'
+}
+item{
+	id: 96
+	name: '200_rub'
+}
+item{
+	id: 97
+	name: '1000_rub'
+}
+item{
+	id: 98
+	name: '50_rub'
+}
+item{
+	id: 99
+	name: 'Sberbank_MC'
+} 
+item{
+	id: 100
+	name: 'VTB_MIR'
+}
+item{
+	id: 101
+	name: 'Senator'
+}
+item{
+	id: 102
+     	name: 'avion_spichki'
+}
+item{
+	id: 103
+	name: 'Heinz_5zlakov'
+}
+item{
+	id: 104
+	name: 'Greenfield_earl_grey'
+}
+item{
+	id: 105
+	name: 'Heinz_grechnevaya_bm'
+}
+item{
+	id: 106
+	name: 'Magnit'
+}
+item{
+	id: 107
+	name: '10_rub'
+}
+item{
+	id: 108
+	name: '2_rub'
+}
+item{
+	id: 109
+	name: '100_rub'
+} 
+item{
+	id: 110
+	name:  'Russian_standart'
+}
