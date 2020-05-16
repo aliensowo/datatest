@@ -1,0 +1,439 @@
+item{
+	id: 1
+	name: 'Derbent'
+}
+
+item{
+	id: 2
+     	name: 'Strigament_nastoyka'
+}
+
+item{
+	id: 3
+	name: 'Sangria'
+}
+
+item{
+	id: 4
+	name: 'Chocopie'
+}
+
+item{
+	id: 5
+	name: 'Cornline_bar'
+}
+
+item{
+	id: 6
+	name: 'Korovka_iz_korenovki_sguchonka'
+}
+
+item{
+	id: 7
+	name: 'Heinz_ketchup'
+}
+
+item{
+	id: 8
+	name: 'Geksoral_rastvor'
+}
+
+item{
+	id: 9
+	name: 'Ambrobene_rastvor'
+} 
+
+item{
+	id:10
+	name: 'Omeprazol_kapsuli' 
+}
+
+item{
+	id: 11
+	name: 'Taustin_S'
+}
+
+item{
+	id: 12
+     name: 'Twix_solty_caramel'
+}
+
+item{
+	id: 13
+	name: 'Lowen_prise'
+}
+
+item{
+	id: 14
+	name: 'Lenta_salfetki_dlya_optiki'
+}
+
+item{
+	id: 15
+	name: 'Tigers'
+}
+
+item{
+	id: 16
+	name: 'Golden_virgina_orig'
+}
+
+item{
+	id: 17
+	name: 'Baisad_mayonez'
+}
+
+item{
+	id: 18
+	name: 'Bonfesto_cremolle'
+}
+
+item{
+	id: 19
+	name: 'Heinz_cheesy_sauce'
+} 
+item{
+	id:20
+	name: 'Ahmad_tea_earl_grey' 
+}
+item{
+	id: 21
+	name: 'Hilltop_tea'
+}
+item{
+	id: 22
+     name: 'Fitotea_A'
+}
+item{
+	id: 23
+	name: 'Vitamin_AE_forte'
+}
+item{
+	id: 24
+	name: 'Al_Abbas_ceylon_tea'
+}
+item{
+	id: 25
+	name: 'Axa_Granola'
+}
+item{
+	id: 26
+	name: 'Muesli_Cranberry'
+}
+item{
+	id: 27
+	name: 'Nurofen_exressforte'
+}
+item{
+	id: 28
+	name: 'Prostamol_uno'
+}
+item{
+	id: 29
+	name: 'Afludol_detskiy'
+} 
+item{
+	id: 30
+	name: 'Augmentin'
+}
+item{
+	id: 31
+	name: 'Pirantel'
+}
+item{
+	id: 32
+     name: 'Medisorb_Paracetamol'
+}
+item{
+	id: 33
+	name: 'Nimulid'
+}
+item{
+	id: 34
+	name: 'Diakarb'
+}
+item{
+	id: 35
+	name: 'Lowen_prise_gold'
+}
+item{
+	id: 36
+	name: 'Puzzle'
+}
+item{
+	id: 37
+	name:  'Adlin'
+}
+item{
+	id: 38
+	name: 'Koska_halva'
+}
+item{
+	id: 39
+	name: 'Koska_delight'
+} 
+item{
+	id: 40
+	name: 'Sadi_pridoniya_sok_vishnya' 
+}
+item{
+	id: 41
+	name: 'Sadi_pridoniya_sok_grusha'
+}
+item{
+	id: 42
+     	name: 'Sadi_pridoniya_pure_apple'
+}
+item{
+	id: 43
+	name: 'Sanitaizer_zero'
+}
+item{
+	id: 44
+	name: 'Baryer'
+}
+item{
+	id: 45
+	name: 'Sadi_pridoniya_sok_abricos'
+}
+item{
+	id: 46
+	name: 'Sadi_pridoniya_spure_vishnya'
+}
+item{
+	id: 47
+	name: 'Muesli_ogo'
+}
+item{
+	id: 48
+	name: 'Sadaka_tea'
+}
+item{
+	id: 49
+	name: 'Barbaris'
+} 
+item{
+	id: 50
+	name: 'Mens_peris'
+}
+item{
+	id: 51
+	name: 'Heinz_apple_pear'
+}
+item{
+	id: 52
+     name: 'Heinz_fruits_salad'
+}
+item{
+	id: 53
+	name: 'Heinz_fruits_pure'
+}
+item{
+	id: 54
+	name: 'Fruto_nyanya_apple_banana'
+}
+item{
+	id: 55
+	name: 'Heinz_kasha_before_sleep'
+}
+item{
+	id: 56
+	name: 'Nestle_ovsyanaya_kasha'
+}
+item{
+	id: 57
+	name: 'Plombir_fistashka'
+}
+item{
+	id: 58
+	name: 'Plombir_choco'
+}
+item{
+	id: 59
+	name: 'Givenchy_mascara'
+} 
+item{
+	id:60
+	name: 'Dom_v_kotorom'
+}
+item{
+	id: 61
+	name: 'Tide'
+}
+item{
+	id: 62
+     name: 'Five_lakes'
+}
+item{
+	id: 63
+	name: 'Kindzmarauli'
+}
+item{
+	id: 64
+	name: 'Vernel'
+}
+item{
+	id: 65
+	name: 'Barhatnie_ruchki'
+}
+item{
+	id: 66
+	name: 'Dolce_Albero_cake'
+}
+item{
+	id: 67
+	name: 'Voda_Agusha_5L'
+}
+item{
+	id: 68
+	name: 'Voda_Heney_kid_1L'
+}
+item{
+	id: 69
+	name: 'Sensiro_Suru_cream'
+} 
+item{
+	id: 70
+	name:  'Greenfield'
+}
+item{
+	id: 71
+	name: 'Oil_of_black_Tmin'
+}
+item{
+	id: 72
+     name: 'Heinz_kasha_tykwa'
+}
+item{
+	id: 73
+	name: 'Risotto_porcino'
+}
+item{
+	id: 74
+	name: 'Tequila'
+}
+item{
+	id: 75
+	name: 'Mistal_ris_indika'
+}
+item{
+	id: 76
+	name: 'Mistal_grecha'
+}
+item{
+	id: 77
+	name:  'Mistral_grechka_farm'
+}
+item{
+	id: 78
+	name: 'Oil_amarant'
+}
+item{
+	id: 79
+	name: 'Oil_gretsky_orex'
+} 
+item{
+	id: 80
+	name: 'Risotto_tartufo'
+}
+item{
+	id: 81
+	name: 'Richman_ceylon'
+}
+item{
+	id: 82
+     	name: 'Perekrestok_malina'
+}
+item{
+	id: 83
+	name: 'Vologodskaya_malina'
+}
+item{
+	id: 84
+	name: 'Noweda'
+}
+item{
+	id: 85
+	name: 'Beaf_tushenka'
+}
+item{
+	id: 86
+	name: 'Beaf_extra'
+}
+item{
+	id: 87
+	name: 'Leovit_kisel'
+}
+item{
+	id: 88
+	name: 'Shipovnik'
+}
+item{
+	id: 89
+	name: 'Leps'
+} 
+item{
+	id:90
+	name: 'Voda_antipodes'
+}
+item{
+	id: 91
+	name: 'Barilla_pipe'
+}
+item{
+	id: 92
+     name: 'Batjeman_barton'
+}
+item{
+	id: 93
+	name: 'Sugar_melon'
+}
+item{
+	id: 94
+	name: 'Kalendula'
+}
+item{
+	id: 95
+	name: 'Bessmertnik'
+}
+item{
+	id: 96
+	name: 'Dammann'
+}
+item{
+	id: 97
+	name: 'Alfa_bank_Nikolaeva'
+}
+item{
+	id: 98
+	name: 'Alfa_bank_Sereda'
+}
+item{
+	id: 99
+	name: 'MKB_Pogidaev'
+} 
+item{
+	id: 100
+	name: 'MKB_Filippenkov'
+}
+item{
+	id: 101
+	name: 'MiT_Losev'
+}
+item{
+	id: 102
+     	name: 'MiT_Matnishyan'
+}
+item{
+	id: 103
+	name: 'Carmex'
+}
+item{
+	id: 104
+	name: 'Miratorg'
+}
+item{
+	id: 105
+	name: 'MKB_Logo'
+}
+
