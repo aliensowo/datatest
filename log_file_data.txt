@@ -1,0 +1,1108 @@
+Total files are count: 553
+
+ file_number: 1, name: 94.JPG, class: Sadi_pridoniya_sok_vishnya, score: 78.10496687889099% 
+
+ file_number: 2, name: 306.JPG, class: Sensiro_Suru_cream, score: 94.24200654029846% 
+
+ file_number: 3, name: photo_2020-05-11_17-04-10.jpg, class: Leps, score: 96.47518396377563% 
+
+ file_number: 4, name: photo_2020-05-11_17-12-34.jpg, class: Risotto_porcino, score: 60.93266010284424% 
+
+ file_number: 5, name: 327.JPG, class: Baryer, score: 22.365286946296692% 
+
+ file_number: 6, name: photo_2020-05-11_17-04-57.jpg, class: Ahmad_tea_earl_grey, score: 14.607340097427368% 
+
+ file_number: 7, name: 154.JPG, class: Sensiro_Suru_cream, score: 87.47749328613281% 
+
+ file_number: 8, name: 117.JPG, class: Givenchy_mascara, score: 4.2052485048770905% 
+
+ file_number: 9, name: 312.JPG, class: Koska_halva, score: 75.06579756736755% 
+
+ file_number: 10, name: 76.JPG, class: Muesli_ogo, score: 84.44710373878479% 
+
+ file_number: 11, name: 164.JPG, class: Plombir_fistashka, score: 65.46858549118042% 
+
+ file_number: 12, name: 361.JPG, class: Dolce_Albero_cake, score: 36.4185631275177% 
+
+ file_number: 13, name: 318.JPG, class: Dom_v_kotorom, score: 26.147395372390747% 
+
+ file_number: 14, name: photo_2020-05-11_17-03-28.jpg, class: Carmex, score: 95.90189456939697% 
+
+ file_number: 15, name: 127.JPG, class: Heinz_kasha_tykwa, score: 29.95176613330841% 
+
+ file_number: 16, name: photo_2020-05-11_17-03-15.jpg, class: Cornline_bar, score: 20.051513612270355% 
+
+ file_number: 17, name: photo_2020-05-11_17-01-05.jpg, class: MiT_Losev, score: 3.6731623113155365% 
+
+ file_number: 18, name: 212.JPG, class: Koska_halva, score: 23.75255525112152% 
+
+ file_number: 19, name: photo_2020-05-11_17-00-27.jpg, class: MKB_Pogidaev, score: 6.462668627500534% 
+
+ file_number: 20, name: 230.JPG, class: Dolce_Albero_cake, score: 34.81700122356415% 
+
+ file_number: 21, name: 278.JPG, class: Heinz_apple_pear, score: 40.16284644603729% 
+
+ file_number: 22, name: 307.JPG, class: Heinz_fruits_pure, score: 59.568214416503906% 
+
+ file_number: 23, name: 365.JPG, class: Nestle_ovsyanaya_kasha, score: 65.63034057617188% 
+
+ file_number: 24, name: 251.JPG, class: Givenchy_mascara, score: 5.219875276088715% 
+
+ file_number: 25, name: 343.JPG, class: Plombir_fistashka, score: 93.65396499633789% 
+
+ file_number: 26, name: photo_2020-05-11_17-06-47.jpg, class: Vologodskaya_malina, score: 56.80937170982361% 
+
+ file_number: 27, name: 234.JPG, class: Heinz_apple_pear, score: 36.342447996139526% 
+
+ file_number: 28, name: 243.JPG, class: Koska_halva, score: 91.26818776130676% 
+
+ file_number: 29, name: photo_2020-05-11_17-09-19.jpg, class: Tequila, score: 92.53097176551819% 
+
+ file_number: 30, name: photo_2020-05-11_17-09-30.jpg, class: Tequila, score: 93.46480965614319% 
+
+ file_number: 31, name: photo_2020-05-11_17-08-08.jpg, class: Vologodskaya_malina, score: 34.08820331096649% 
+
+ file_number: 32, name: photo_2020-05-11_17-03-56.jpg, class: Carmex, score: 96.02280855178833% 
+
+ file_number: 33, name: 297.JPG, class: Adlin, score: 54.0360689163208% 
+
+ file_number: 34, name: 124.JPG, class: Barhatnie_ruchki, score: 68.77403855323792% 
+
+ file_number: 35, name: photo_2020-05-11_16-59-39.jpg, class: MiT_Losev, score: 6.324996799230576% 
+
+ file_number: 36, name: 114.JPG, class: Plombir_fistashka, score: 87.47743368148804% 
+
+ file_number: 37, name: photo_2020-05-11_17-01-20.jpg, class: MiT_Losev, score: 91.89353585243225% 
+
+ file_number: 38, name: 123.JPG, class: Tide, score: 95.36406993865967% 
+
+ file_number: 39, name: photo_2020-05-11_17-08-50.jpg, class: Risotto_tartufo, score: 89.42874670028687% 
+
+ file_number: 40, name: photo_2020-05-11_17-06-06.jpg, class: Oil_amarant, score: 79.0790855884552% 
+
+ file_number: 41, name: 198.JPG, class: Muesli_ogo, score: 86.29698753356934% 
+
+ file_number: 42, name: 143.JPG, class: Sensiro_Suru_cream, score: 91.02007150650024% 
+
+ file_number: 43, name: photo_2020-05-11_17-04-40.jpg, class: Leps, score: 99.39361214637756% 
+
+ file_number: 44, name: 156.JPG, class: Sadi_pridoniya_sok_vishnya, score: 70.80703377723694% 
+
+ file_number: 45, name: 288.JPG, class: Korovka_iz_korenovki_sguchonka, score: 32.152169942855835% 
+
+ file_number: 46, name: photo_2020-05-11_16-59-10.jpg, class: Ambrobene_rastvor, score: 19.01845932006836% 
+
+ file_number: 47, name: photo_2020-05-11_17-05-41.jpg, class: Carmex, score: 52.1579384803772% 
+
+ file_number: 48, name: 52.JPG, class: Heinz_kasha_tykwa, score: 32.325196266174316% 
+
+ file_number: 49, name: photo_2020-05-11_17-08-41.jpg, class: Dolce_Albero_cake, score: 27.163568139076233% 
+
+ file_number: 50, name: 337.JPG, class: Voda_antipodes, score: 84.7743570804596% 
+
+ file_number: 51, name: 26.JPG, class: Leps, score: 53.569191694259644% 
+
+ file_number: 52, name: 69.JPG, class: Heinz_fruits_salad, score: 61.97681427001953% 
+
+ file_number: 53, name: 347.JPG, class: Barhatnie_ruchki, score: 56.281256675720215% 
+
+ file_number: 54, name: 264.JPG, class: Sadi_pridoniya_sok_vishnya, score: 42.90798902511597% 
+
+ file_number: 55, name: 252.JPG, class: Sadi_pridoniya_pure_apple, score: 90.65660834312439% 
+
+ file_number: 56, name: 311.JPG, class: Plombir_choco, score: 92.72603392601013% 
+
+ file_number: 57, name: photo_2020-05-11_17-01-13.jpg, class: MiT_Losev, score: 0.6423830520361662% 
+
+ file_number: 58, name: 363.JPG, class: Sangria, score: 28.89668047428131% 
+
+ file_number: 59, name: photo_2020-05-11_17-01-48.jpg, class: MiT_Losev, score: 1.1192038655281067% 
+
+ file_number: 60, name: 334.JPG, class: Voda_Agusha_5L, score: 19.261308014392853% 
+
+ file_number: 61, name: photo_2020-05-11_16-58-22.jpg, class: MKB_Pogidaev, score: 0.958686787635088% 
+
+ file_number: 62, name: 149.JPG, class: Heinz_apple_pear, score: 46.032777428627014% 
+
+ file_number: 63, name: photo_2020-05-11_17-04-04.jpg, class: Leps, score: 94.06246542930603% 
+
+ file_number: 64, name: 192.JPG, class: Heinz_fruits_pure, score: 67.62475371360779% 
+
+ file_number: 65, name: 322.JPG, class: Mens_peris, score: 76.96240544319153% 
+
+ file_number: 66, name: photo_2020-05-11_17-06-31.jpg, class: Mistal_grecha, score: 53.88265252113342% 
+
+ file_number: 67, name: photo_2020-05-11_17-09-33.jpg, class: Leps, score: 93.1425392627716% 
+
+ file_number: 68, name: 158.JPG, class: Plombir_fistashka, score: 94.70595121383667% 
+
+ file_number: 69, name: photo_2020-05-11_17-00-58.jpg, class: MiT_Losev, score: 94.67640519142151% 
+
+ file_number: 70, name: photo_2020-05-11_17-04-29.jpg, class: Leps, score: 98.93950819969177% 
+
+ file_number: 71, name: photo_2020-05-11_17-06-58.jpg, class: Mistral_grechka_farm, score: 98.44196438789368% 
+
+ file_number: 72, name: 60.JPG, class: Sadi_pridoniya_sok_grusha, score: 63.88442516326904% 
+
+ file_number: 73, name: 29.JPG, class: Fruto_nyanya_apple_banana, score: 80.06787300109863% 
+
+ file_number: 74, name: photo_2020-05-11_17-05-01.jpg, class: Bessmertnik, score: 89.4094169139862% 
+
+ file_number: 75, name: photo_2020-05-11_17-12-12.jpg, class: Voda_antipodes, score: 99.62052702903748% 
+
+ file_number: 76, name: 348.JPG, class: Heinz_cheesy_sauce, score: 33.66217017173767% 
+
+ file_number: 77, name: photo_2020-05-11_17-05-24.jpg, class: Noweda, score: 95.02953886985779% 
+
+ file_number: 78, name: 171.JPG, class: Sadi_pridoniya_pure_apple, score: 49.11767244338989% 
+
+ file_number: 79, name: 31.JPG, class: Heinz_kasha_before_sleep, score: 97.10676670074463% 
+
+ file_number: 80, name: 223.JPG, class: Barbaris, score: 70.35207748413086% 
+
+ file_number: 81, name: 17.JPG, class: Muesli_ogo, score: 61.32403612136841% 
+
+ file_number: 82, name: 296.JPG, class: Sangria, score: 42.98269748687744% 
+
+ file_number: 83, name: 340.JPG, class: Koska_halva, score: 87.29437589645386% 
+
+ file_number: 84, name: 208.JPG, class: Fruto_nyanya_apple_banana, score: 25.96813142299652% 
+
+ file_number: 85, name: 268.JPG, class: Heinz_cheesy_sauce, score: 48.47630858421326% 
+
+ file_number: 86, name: 194.JPG, class: Plombir_choco, score: 72.61488437652588% 
+
+ file_number: 87, name: 300.JPG, class: Heinz_fruits_salad, score: 38.18444013595581% 
+
+ file_number: 88, name: 20.JPG, class: Risotto_porcino, score: 43.556803464889526% 
+
+ file_number: 89, name: 43.JPG, class: Koska_delight, score: 71.96484804153442% 
+
+ file_number: 90, name: photo_2020-05-11_16-58-54.jpg, class: MiT_Losev, score: 12.466339021921158% 
+
+ file_number: 91, name: 203.JPG, class: Sensiro_Suru_cream, score: 52.16582417488098% 
+
+ file_number: 92, name: 354.JPG, class: Plombir_choco, score: 92.95572638511658% 
+
+ file_number: 93, name: photo_2020-05-11_16-58-13.jpg, class: Lowen_prise_gold, score: 5.593308806419373% 
+
+ file_number: 94, name: 125.JPG, class: Sensiro_Suru_cream, score: 69.95753049850464% 
+
+ file_number: 95, name: 10.JPG, class: Sangria, score: 49.18411672115326% 
+
+ file_number: 96, name: photo_2020-05-11_17-00-34.jpg, class: MiT_Losev, score: 0.3738929284736514% 
+
+ file_number: 97, name: photo_2020-05-11_17-08-53.jpg, class: Risotto_tartufo, score: 95.485919713974% 
+
+ file_number: 98, name: photo_2020-05-11_17-02-27.jpg, class: MKB_Pogidaev, score: 62.7519428730011% 
+
+ file_number: 99, name: photo_2020-05-11_17-07-42.jpg, class: Chocopie, score: 29.354172945022583% 
+
+ file_number: 100, name: 34.JPG, class: Plombir_choco, score: 83.23752880096436% 
+
+ file_number: 101, name: 77.JPG, class: Adlin, score: 80.3899347782135% 
+
+ file_number: 102, name: 18.JPG, class: Sadaka_tea, score: 59.64632034301758% 
+
+ file_number: 103, name: 163.JPG, class: Baryer, score: 94.64300274848938% 
+
+ file_number: 104, name: 233.JPG, class: Korovka_iz_korenovki_sguchonka, score: 47.74024784564972% 
+
+ file_number: 105, name: 279.JPG, class: Sadi_pridoniya_pure_apple, score: 19.947822391986847% 
+
+ file_number: 106, name: 313.JPG, class: Heinz_apple_pear, score: 36.803269386291504% 
+
+ file_number: 107, name: 51.JPG, class: Vologodskaya_malina, score: 44.58929896354675% 
+
+ file_number: 108, name: photo_2020-05-11_17-00-16.jpg, class: Alfa_bank_Sereda, score: 84.90867614746094% 
+
+ file_number: 109, name: photo_2020-05-11_17-02-37.jpg, class: MiT_Losev, score: 79.2434573173523% 
+
+ file_number: 110, name: 360.JPG, class: Barhatnie_ruchki, score: 63.76854181289673% 
+
+ file_number: 111, name: 345.JPG, class: Sadi_pridoniya_pure_apple, score: 36.905890703201294% 
+
+ file_number: 112, name: photo_2020-05-11_17-01-31.jpg, class: MiT_Matnishyan, score: 54.726314544677734% 
+
+ file_number: 113, name: 107.JPG, class: Fruto_nyanya_apple_banana, score: 77.29326486587524% 
+
+ file_number: 114, name: 316.JPG, class: Risotto_porcino, score: 59.84031558036804% 
+
+ file_number: 115, name: 67.JPG, class: Tide, score: 96.24884128570557% 
+
+ file_number: 116, name: 126.JPG, class: Koska_halva, score: 92.86096096038818% 
+
+ file_number: 117, name: 299.JPG, class: Twix_solty_caramel, score: 16.216833889484406% 
+
+ file_number: 118, name: 146.JPG, class: Plombir_fistashka, score: 94.20141577720642% 
+
+ file_number: 119, name: 118.JPG, class: Dom_v_kotorom, score: 85.06781458854675% 
+
+ file_number: 120, name: 21.JPG, class: Mens_peris, score: 63.77577185630798% 
+
+ file_number: 121, name: photo_2020-05-11_17-07-39.jpg, class: Mistal_ris_indika, score: 81.26149773597717% 
+
+ file_number: 122, name: 84.JPG, class: Barbaris, score: 22.847355902194977% 
+
+ file_number: 123, name: 45.JPG, class: Sadi_pridoniya_sok_grusha, score: 73.06860089302063% 
+
+ file_number: 124, name: photo_2020-05-11_16-58-40.jpg, class: Miratorg, score: 90.77117443084717% 
+
+ file_number: 125, name: 213.JPG, class: Sadi_pridoniya_sok_vishnya, score: 79.78834509849548% 
+
+ file_number: 126, name: photo_2020-05-11_17-00-23.jpg, class: MiT_Matnishyan, score: 33.02270472049713% 
+
+ file_number: 127, name: 142.JPG, class: Vernel, score: 93.98674368858337% 
+
+ file_number: 128, name: 336.JPG, class: Heinz_kasha_before_sleep, score: 67.48809814453125% 
+
+ file_number: 129, name: 66.JPG, class: Voda_Heney_kid_1L, score: 55.561792850494385% 
+
+ file_number: 130, name: 24.JPG, class: Sadi_pridoniya_sok_vishnya, score: 33.07061493396759% 
+
+ file_number: 131, name: photo_2020-05-11_16-59-25.jpg, class: MKB_Filippenkov, score: 54.87459897994995% 
+
+ file_number: 132, name: 166.JPG, class: Mens_peris, score: 17.99350380897522% 
+
+ file_number: 133, name: photo_2020-05-11_17-01-59.jpg, class: MiT_Losev, score: 82.54876732826233% 
+
+ file_number: 134, name: photo_2020-05-11_16-58-44.jpg, class: Miratorg, score: 94.32060718536377% 
+
+ file_number: 135, name: photo_2020-05-11_17-06-18.jpg, class: Mistral_grechka_farm, score: 27.87443697452545% 
+
+ file_number: 136, name: 293.JPG, class: Sadi_pridoniya_sok_vishnya, score: 34.33600962162018% 
+
+ file_number: 137, name: 210.JPG, class: Risotto_porcino, score: 38.743945956230164% 
+
+ file_number: 138, name: 61.JPG, class: Sadi_pridoniya_pure_apple, score: 75.01475811004639% 
+
+ file_number: 139, name: 5.JPG, class: Oil_gretsky_orex, score: 89.19668197631836% 
+
+ file_number: 140, name: photo_2020-05-11_17-01-02.jpg, class: MiT_Losev, score: 1.6952643170952797% 
+
+ file_number: 141, name: 320.JPG, class: Barhatnie_ruchki, score: 90.41410684585571% 
+
+ file_number: 142, name: 329.JPG, class: Dom_v_kotorom, score: 73.46702814102173% 
+
+ file_number: 143, name: 323.JPG, class: Greenfield, score: 14.53528106212616% 
+
+ file_number: 144, name: photo_2020-05-11_17-08-21.jpg, class: Mistal_ris_indika, score: 87.25850582122803% 
+
+ file_number: 145, name: 63.JPG, class: Barbaris, score: 92.01210141181946% 
+
+ file_number: 146, name: 271.JPG, class: Heinz_fruits_pure, score: 66.36182069778442% 
+
+ file_number: 147, name: 245.JPG, class: Cornline_bar, score: 64.43867087364197% 
+
+ file_number: 148, name: photo_2020-05-11_17-12-16.jpg, class: Dolce_Albero_cake, score: 34.461987018585205% 
+
+ file_number: 149, name: 9.JPG, class: Sadi_pridoniya_sok_vishnya, score: 92.8134560585022% 
+
+ file_number: 150, name: 286.JPG, class: Barhatnie_ruchki, score: 33.51640999317169% 
+
+ file_number: 151, name: photo_2020-05-11_16-59-29.jpg, class: Ambrobene_rastvor, score: 24.465076625347137% 
+
+ file_number: 152, name: 178.JPG, class: Plombir_choco, score: 73.42315912246704% 
+
+ file_number: 153, name: photo_2020-05-11_17-09-37.jpg, class: Leps, score: 74.9721348285675% 
+
+ file_number: 154, name: 239.JPG, class: Sadi_pridoniya_pure_apple, score: 65.68325757980347% 
+
+ file_number: 155, name: 346.JPG, class: Heinz_fruits_pure, score: 51.24809741973877% 
+
+ file_number: 156, name: 38.JPG, class: Tide, score: 72.64770865440369% 
+
+ file_number: 157, name: 229.JPG, class: Koska_halva, score: 90.3121292591095% 
+
+ file_number: 158, name: photo_2020-05-11_17-07-58.jpg, class: Chocopie, score: 29.354172945022583% 
+
+ file_number: 159, name: 285.JPG, class: Heinz_cheesy_sauce, score: 40.21245539188385% 
+
+ file_number: 160, name: 121.JPG, class: Vernel, score: 70.36060690879822% 
+
+ file_number: 161, name: 101.JPG, class: Batjeman_barton, score: 30.551502108573914% 
+
+ file_number: 162, name: 325.JPG, class: Heinz_kasha_tykwa, score: 95.35638689994812% 
+
+ file_number: 163, name: photo_2020-05-11_17-08-38.jpg, class: Prostamol_uno, score: 21.92554920911789% 
+
+ file_number: 164, name: 267.JPG, class: Mens_peris, score: 26.426681876182556% 
+
+ file_number: 165, name: 319.JPG, class: Adlin, score: 88.93318176269531% 
+
+ file_number: 166, name: 260.JPG, class: Fruto_nyanya_apple_banana, score: 90.44888615608215% 
+
+ file_number: 167, name: 75.JPG, class: Sadi_pridoniya_sok_grusha, score: 48.50747287273407% 
+
+ file_number: 168, name: 133.JPG, class: Heinz_kasha_before_sleep, score: 55.90242147445679% 
+
+ file_number: 169, name: photo_2020-05-11_16-58-37.jpg, class: Miratorg, score: 89.87324833869934% 
+
+ file_number: 170, name: photo_2020-05-11_17-05-59.jpg, class: Mistal_grecha, score: 42.00672507286072% 
+
+ file_number: 171, name: photo_2020-05-11_17-09-51.jpg, class: Leps, score: 69.11721229553223% 
+
+ file_number: 172, name: photo_2020-05-11_17-08-14.jpg, class: Mistal_ris_indika, score: 95.76249718666077% 
+
+ file_number: 173, name: 95.JPG, class: Sanitaizer_zero, score: 46.14219665527344% 
+
+ file_number: 174, name: 183.JPG, class: Sadi_pridoniya_pure_apple, score: 43.11465620994568% 
+
+ file_number: 175, name: 349.JPG, class: Dom_v_kotorom, score: 68.63070726394653% 
+
+ file_number: 176, name: photo_2020-05-11_17-02-06.jpg, class: MKB_Filippenkov, score: 70.4938292503357% 
+
+ file_number: 177, name: photo_2020-05-11_17-09-12.jpg, class: Tequila, score: 92.3755407333374% 
+
+ file_number: 178, name: 68.JPG, class: Sadaka_tea, score: 88.9666736125946% 
+
+ file_number: 179, name: photo_2020-05-11_17-00-55.jpg, class: MiT_Losev, score: 93.73241662979126% 
+
+ file_number: 180, name: 145.JPG, class: Tide, score: 35.964661836624146% 
+
+ file_number: 181, name: photo_2020-05-11_17-02-09.jpg, class: MKB_Pogidaev, score: 70.69360613822937% 
+
+ file_number: 182, name: 59.JPG, class: Vernel, score: 63.79522681236267% 
+
+ file_number: 183, name: 207.JPG, class: Sadi_pridoniya_sok_vishnya, score: 34.44281816482544% 
+
+ file_number: 184, name: 110.JPG, class: Heinz_apple_pear, score: 57.89923071861267% 
+
+ file_number: 185, name: photo_2020-05-11_17-12-43.jpg, class: Risotto_porcino, score: 81.71977996826172% 
+
+ file_number: 186, name: 352.JPG, class: Adlin, score: 56.244128942489624% 
+
+ file_number: 187, name: 231.JPG, class: Sensiro_Suru_cream, score: 66.83438420295715% 
+
+ file_number: 188, name: photo_2020-05-11_17-07-04.jpg, class: Vologodskaya_malina, score: 60.389673709869385% 
+
+ file_number: 189, name: 161.JPG, class: Korovka_iz_korenovki_sguchonka, score: 28.682741522789% 
+
+ file_number: 190, name: photo_2020-05-11_17-05-34.jpg, class: Oil_amarant, score: 36.78987920284271% 
+
+ file_number: 191, name: photo_2020-05-11_17-00-45.jpg, class: MiT_Losev, score: 95.37440538406372% 
+
+ file_number: 192, name: 46.JPG, class: Sadi_pridoniya_pure_apple, score: 88.87676000595093% 
+
+ file_number: 193, name: 217.JPG, class: Medisorb_Paracetamol, score: 51.879316568374634% 
+
+ file_number: 194, name: 202.JPG, class: Baryer, score: 25.856390595436096% 
+
+ file_number: 195, name: 282.JPG, class: Greenfield, score: 32.76512026786804% 
+
+ file_number: 196, name: 168.JPG, class: Nestle_ovsyanaya_kasha, score: 29.476433992385864% 
+
+ file_number: 197, name: 162.JPG, class: Vernel, score: 66.89461469650269% 
+
+ file_number: 198, name: 78.JPG, class: Plombir_choco, score: 90.07221460342407% 
+
+ file_number: 199, name: 50.JPG, class: Sanitaizer_zero, score: 60.52401661872864% 
+
+ file_number: 200, name: photo_2020-05-11_17-04-32.jpg, class: Leps, score: 98.59541058540344% 
+
+ file_number: 201, name: 244.JPG, class: Koska_delight, score: 23.675359785556793% 
+
+ file_number: 202, name: 131.JPG, class: Heinz_fruits_pure, score: 15.576434135437012% 
+
+ file_number: 203, name: 305.JPG, class: Sadi_pridoniya_sok_abricos, score: 65.78579545021057% 
+
+ file_number: 204, name: 6.JPG, class: Adlin, score: 76.82529091835022% 
+
+ file_number: 205, name: 359.JPG, class: Tide, score: 48.80169332027435% 
+
+ file_number: 206, name: 310.JPG, class: Sanitaizer_zero, score: 53.26473116874695% 
+
+ file_number: 207, name: photo_2020-05-11_17-06-29.jpg, class: Mistal_ris_indika, score: 62.43891716003418% 
+
+ file_number: 208, name: photo_2020-05-11_17-01-51.jpg, class: MiT_Losev, score: 2.4529634043574333% 
+
+ file_number: 209, name: 64.JPG, class: Heinz_kasha_tykwa, score: 46.689265966415405% 
+
+ file_number: 210, name: photo_2020-05-11_17-04-20.jpg, class: Leps, score: 70.12745141983032% 
+
+ file_number: 211, name: 275.JPG, class: Sadaka_tea, score: 57.647186517715454% 
+
+ file_number: 212, name: 33.JPG, class: Plombir_fistashka, score: 98.80714416503906% 
+
+ file_number: 213, name: 12.JPG, class: Sanitaizer_zero, score: 96.69315814971924% 
+
+ file_number: 214, name: 250.JPG, class: Fruto_nyanya_apple_banana, score: 55.00005483627319% 
+
+ file_number: 215, name: 227.JPG, class: Greenfield, score: 34.49023365974426% 
+
+ file_number: 216, name: 144.JPG, class: Adlin, score: 96.13218903541565% 
+
+ file_number: 217, name: 184.JPG, class: Heinz_fruits_salad, score: 80.74200749397278% 
+
+ file_number: 218, name: 232.JPG, class: Heinz_fruits_salad, score: 19.27129328250885% 
+
+ file_number: 219, name: 222.JPG, class: Sangria, score: 23.455531895160675% 
+
+ file_number: 220, name: photo_2020-05-11_16-58-33.jpg, class: Miratorg, score: 92.55138635635376% 
+
+ file_number: 221, name: 93.JPG, class: Voda_antipodes, score: 78.76702547073364% 
+
+ file_number: 222, name: 304.JPG, class: Muesli_ogo, score: 66.34969115257263% 
+
+ file_number: 223, name: 132.JPG, class: Sadi_pridoniya_sok_vishnya, score: 76.74909234046936% 
+
+ file_number: 224, name: photo_2020-05-11_17-01-44.jpg, class: MiT_Losev, score: 51.89491510391235% 
+
+ file_number: 225, name: photo_2020-05-11_17-00-38.jpg, class: MiT_Losev, score: 0.8853098377585411% 
+
+ file_number: 226, name: photo_2020-05-11_17-08-44.jpg, class: Risotto_tartufo, score: 62.88556456565857% 
+
+ file_number: 227, name: photo_2020-05-11_16-59-07.jpg, class: MiT_Matnishyan, score: 36.54433786869049% 
+
+ file_number: 228, name: photo_2020-05-11_16-59-22.jpg, class: Alfa_bank_Nikolaeva, score: 57.91065692901611% 
+
+ file_number: 229, name: 276.JPG, class: Mens_peris, score: 90.12442231178284% 
+
+ file_number: 230, name: photo_2020-05-11_17-08-03.jpg, class: Vologodskaya_malina, score: 44.82234716415405% 
+
+ file_number: 231, name: 339.JPG, class: Heinz_kasha_tykwa, score: 61.7924690246582% 
+
+ file_number: 232, name: 200.JPG, class: Mistral_grechka_farm, score: 72.77018427848816% 
+
+ file_number: 233, name: 153.JPG, class: Heinz_kasha_tykwa, score: 86.65605187416077% 
+
+ file_number: 234, name: 302.JPG, class: Sadaka_tea, score: 59.60094332695007% 
+
+ file_number: 235, name: 112.JPG, class: Ahmad_tea_earl_grey, score: 20.41088342666626% 
+
+ file_number: 236, name: 255.JPG, class: Heinz_apple_pear, score: 31.381908059120178% 
+
+ file_number: 237, name: 2.JPG, class: Vernel, score: 52.323710918426514% 
+
+ file_number: 238, name: 257.JPG, class: Mens_peris, score: 15.441809594631195% 
+
+ file_number: 239, name: photo_2020-05-11_17-01-16.jpg, class: MiT_Losev, score: 3.6284297704696655% 
+
+ file_number: 240, name: 89.JPG, class: Heinz_kasha_tykwa, score: 92.72239208221436% 
+
+ file_number: 241, name: 96.JPG, class: Derbent, score: 44.98836100101471% 
+
+ file_number: 242, name: 291.JPG, class: Koska_delight, score: 19.56726461648941% 
+
+ file_number: 243, name: 186.JPG, class: Oil_of_black_Tmin, score: 91.18448495864868% 
+
+ file_number: 244, name: 49.JPG, class: Adlin, score: 91.50782227516174% 
+
+ file_number: 245, name: 137.JPG, class: Tide, score: 35.02511978149414% 
+
+ file_number: 246, name: 301.JPG, class: Heinz_apple_pear, score: 47.618481516838074% 
+
+ file_number: 247, name: 344.JPG, class: Cornline_bar, score: 39.35692310333252% 
+
+ file_number: 248, name: photo_2020-05-11_16-58-26.jpg, class: Alfa_bank_Sereda, score: 1.566392183303833% 
+
+ file_number: 249, name: 224.JPG, class: Heinz_kasha_before_sleep, score: 71.93114161491394% 
+
+ file_number: 250, name: photo_2020-05-11_17-05-28.jpg, class: Five_lakes, score: 68.68796944618225% 
+
+ file_number: 251, name: photo_2020-05-11_17-08-32.jpg, class: Dolce_Albero_cake, score: 26.99444591999054% 
+
+ file_number: 252, name: 74.JPG, class: Sadi_pridoniya_spure_vishnya, score: 19.302301108837128% 
+
+ file_number: 253, name: photo_2020-05-11_17-03-35.jpg, class: Carmex, score: 97.00810313224792% 
+
+ file_number: 254, name: 269.JPG, class: Heinz_kasha_before_sleep, score: 92.77697205543518% 
+
+ file_number: 255, name: 103.JPG, class: Heinz_apple_pear, score: 69.38672065734863% 
+
+ file_number: 256, name: photo_2020-05-11_17-04-54.jpg, class: Prostamol_uno, score: 1.2127559632062912% 
+
+ file_number: 257, name: photo_2020-05-11_17-06-35.jpg, class: Mistal_ris_indika, score: 65.86545705795288% 
+
+ file_number: 258, name: photo_2020-05-11_17-01-24.jpg, class: MiT_Losev, score: 87.00598478317261% 
+
+ file_number: 259, name: 87.JPG, class: Fruto_nyanya_apple_banana, score: 83.47120881080627% 
+
+ file_number: 260, name: 321.JPG, class: Sanitaizer_zero, score: 78.95799279212952% 
+
+ file_number: 261, name: 366.JPG, class: Sanitaizer_zero, score: 70.98890542984009% 
+
+ file_number: 262, name: 220.JPG, class: Five_lakes, score: 81.89446330070496% 
+
+ file_number: 263, name: photo_2020-05-11_17-01-41.jpg, class: Ambrobene_rastvor, score: 28.5930335521698% 
+
+ file_number: 264, name: 119.JPG, class: Risotto_porcino, score: 50.23254156112671% 
+
+ file_number: 265, name: 159.JPG, class: Voda_Heney_kid_1L, score: 68.92680525779724% 
+
+ file_number: 266, name: 147.JPG, class: Heinz_kasha_before_sleep, score: 84.81835126876831% 
+
+ file_number: 267, name: photo_2020-05-11_16-58-17.jpg, class: Alfa_bank_Sereda, score: 19.239570200443268% 
+
+ file_number: 268, name: 201.JPG, class: Plombir_fistashka, score: 92.57702827453613% 
+
+ file_number: 269, name: 80.JPG, class: Vernel, score: 91.11374020576477% 
+
+ file_number: 270, name: 241.JPG, class: Koska_delight, score: 82.81583189964294% 
+
+ file_number: 271, name: photo_2020-05-11_16-58-30.jpg, class: Miratorg, score: 89.48477506637573% 
+
+ file_number: 272, name: photo_2020-05-11_16-59-03.jpg, class: MiT_Losev, score: 15.742865204811096% 
+
+ file_number: 273, name: 196.JPG, class: Dom_v_kotorom, score: 75.03747940063477% 
+
+ file_number: 274, name: 219.JPG, class: Plombir_fistashka, score: 34.50162708759308% 
+
+ file_number: 275, name: 367.JPG, class: Sensiro_Suru_cream, score: 91.93956255912781% 
+
+ file_number: 276, name: 55.JPG, class: Muesli_ogo, score: 83.66374969482422% 
+
+ file_number: 277, name: 335.JPG, class: Vernel, score: 65.89023470878601% 
+
+ file_number: 278, name: 23.JPG, class: Heinz_fruits_pure, score: 28.70182991027832% 
+
+ file_number: 279, name: 295.JPG, class: Muesli_ogo, score: 68.61536502838135% 
+
+ file_number: 280, name: photo_2020-05-11_17-09-48.jpg, class: Leps, score: 91.88743829727173% 
+
+ file_number: 281, name: photo_2020-05-11_16-58-51.jpg, class: MiT_Losev, score: 1.2760302983224392% 
+
+ file_number: 282, name: 14.JPG, class: Sadi_pridoniya_sok_vishnya, score: 62.38734722137451% 
+
+ file_number: 283, name: photo_2020-05-11_17-12-24.jpg, class: Richman_ceylon, score: 18.85285973548889% 
+
+ file_number: 284, name: 331.JPG, class: Sadi_pridoniya_sok_vishnya, score: 60.39896607398987% 
+
+ file_number: 285, name: 242.JPG, class: Nurofen_exressforte, score: 84.65615510940552% 
+
+ file_number: 286, name: 128.JPG, class: Heinz_fruits_salad, score: 46.691131591796875% 
+
+ file_number: 287, name: 79.JPG, class: Nestle_ovsyanaya_kasha, score: 26.982057094573975% 
+
+ file_number: 288, name: photo_2020-05-11_17-12-19.jpg, class: Dolce_Albero_cake, score: 32.431626319885254% 
+
+ file_number: 289, name: 102.JPG, class: Baryer, score: 52.93149948120117% 
+
+ file_number: 290, name: photo_2020-05-11_17-00-08.jpg, class: MiT_Losev, score: 39.50246572494507% 
+
+ file_number: 291, name: photo_2020-05-11_17-07-21.jpg, class: Mistral_grechka_farm, score: 75.63361525535583% 
+
+ file_number: 292, name: 140.JPG, class: Adlin, score: 28.19710373878479% 
+
+ file_number: 293, name: photo_2020-05-11_17-06-12.jpg, class: Mistal_ris_indika, score: 24.272729456424713% 
+
+ file_number: 294, name: 56.JPG, class: Adlin, score: 25.176021456718445% 
+
+ file_number: 295, name: 357.JPG, class: Risotto_porcino, score: 59.04586911201477% 
+
+ file_number: 296, name: 238.JPG, class: Sadi_pridoniya_sok_vishnya, score: 66.59049987792969% 
+
+ file_number: 297, name: 4.JPG, class: Barhatnie_ruchki, score: 63.3223295211792% 
+
+ file_number: 298, name: 205.JPG, class: Heinz_fruits_salad, score: 61.71554923057556% 
+
+ file_number: 299, name: photo_2020-05-11_17-12-28.jpg, class: Richman_ceylon, score: 36.11072599887848% 
+
+ file_number: 300, name: 71.JPG, class: Adlin, score: 38.84705901145935% 
+
+ file_number: 301, name: photo_2020-05-11_17-02-30.jpg, class: MKB_Pogidaev, score: 63.06536793708801% 
+
+ file_number: 302, name: photo_2020-05-11_17-10-07.jpg, class: Voda_antipodes, score: 94.77897882461548% 
+
+ file_number: 303, name: photo_2020-05-11_17-09-27.jpg, class: Tequila, score: 94.00895237922668% 
+
+ file_number: 304, name: 191.JPG, class: Vologodskaya_malina, score: 39.18090760707855% 
+
+ file_number: 305, name: 266.JPG, class: Dom_v_kotorom, score: 93.58664751052856% 
+
+ file_number: 306, name: 342.JPG, class: Sadi_pridoniya_sok_vishnya, score: 88.90954256057739% 
+
+ file_number: 307, name: 25.JPG, class: Dom_v_kotorom, score: 93.94869804382324% 
+
+ file_number: 308, name: 15.JPG, class: Risotto_tartufo, score: 29.055336117744446% 
+
+ file_number: 309, name: 148.JPG, class: Heinz_kasha_tykwa, score: 95.63105702400208% 
+
+ file_number: 310, name: 22.JPG, class: Heinz_apple_pear, score: 76.26683712005615% 
+
+ file_number: 311, name: 47.JPG, class: Koska_delight, score: 74.2566704750061% 
+
+ file_number: 312, name: 221.JPG, class: Sugar_melon, score: 45.019882917404175% 
+
+ file_number: 313, name: 216.JPG, class: Heinz_kasha_before_sleep, score: 90.79548716545105% 
+
+ file_number: 314, name: photo_2020-05-11_17-03-08.jpg, class: Carmex, score: 15.585587918758392% 
+
+ file_number: 315, name: 350.JPG, class: Fruto_nyanya_apple_banana, score: 25.745898485183716% 
+
+ file_number: 316, name: photo_2020-05-11_17-00-41.jpg, class: MiT_Losev, score: 93.235844373703% 
+
+ file_number: 317, name: 185.JPG, class: Barbaris, score: 33.95586907863617% 
+
+ file_number: 318, name: 91.JPG, class: Plombir_choco, score: 81.77345395088196% 
+
+ file_number: 319, name: 193.JPG, class: Muesli_ogo, score: 15.381446480751038% 
+
+ file_number: 320, name: photo_2020-05-11_17-06-25.jpg, class: Vologodskaya_malina, score: 26.482000946998596% 
+
+ file_number: 321, name: 206.JPG, class: Sanitaizer_zero, score: 97.92023301124573% 
+
+ file_number: 322, name: 235.JPG, class: Sadi_pridoniya_pure_apple, score: 69.93385553359985% 
+
+ file_number: 323, name: photo_2020-05-11_17-03-01.jpg, class: Alfa_bank_Nikolaeva, score: 50.48022270202637% 
+
+ file_number: 324, name: 90.JPG, class: Adlin, score: 31.94621503353119% 
+
+ file_number: 325, name: photo_2020-05-11_16-59-35.jpg, class: MiT_Losev, score: 0.8589431643486023% 
+
+ file_number: 326, name: 356.JPG, class: Adlin, score: 38.86338472366333% 
+
+ file_number: 327, name: 273.JPG, class: Risotto_porcino, score: 30.393466353416443% 
+
+ file_number: 328, name: 225.JPG, class: Fruto_nyanya_apple_banana, score: 79.58394885063171% 
+
+ file_number: 329, name: 39.JPG, class: Barhatnie_ruchki, score: 66.96794629096985% 
+
+ file_number: 330, name: 358.JPG, class: Baryer, score: 69.96021866798401% 
+
+ file_number: 331, name: 113.JPG, class: Heinz_kasha_before_sleep, score: 95.261549949646% 
+
+ file_number: 332, name: 27.JPG, class: Voda_antipodes, score: 57.71612524986267% 
+
+ file_number: 333, name: photo_2020-05-11_16-58-47.jpg, class: MiT_Losev, score: 1.0568855330348015% 
+
+ file_number: 334, name: 258.JPG, class: Tide, score: 49.07442331314087% 
+
+ file_number: 335, name: photo_2020-05-11_17-07-01.jpg, class: Mistal_ris_indika, score: 29.788002371788025% 
+
+ file_number: 336, name: photo_2020-05-11_17-09-05.jpg, class: Tequila, score: 91.23165011405945% 
+
+ file_number: 337, name: photo_2020-05-11_16-58-57.jpg, class: MiT_Losev, score: 2.1109532564878464% 
+
+ file_number: 338, name: 98.JPG, class: Vernel, score: 65.8054530620575% 
+
+ file_number: 339, name: photo_2020-05-11_17-06-50.jpg, class: Chocopie, score: 10.737328231334686% 
+
+ file_number: 340, name: 57.JPG, class: Barhatnie_ruchki, score: 34.598156809806824% 
+
+ file_number: 341, name: photo_2020-05-11_17-05-19.jpg, class: Batjeman_barton, score: 83.59400033950806% 
+
+ file_number: 342, name: photo_2020-05-11_17-12-31.jpg, class: Risotto_tartufo, score: 56.002652645111084% 
+
+ file_number: 343, name: 283.JPG, class: Heinz_fruits_pure, score: 71.54603600502014% 
+
+ file_number: 344, name: 11.JPG, class: Sadi_pridoniya_pure_apple, score: 93.12079548835754% 
+
+ file_number: 345, name: 341.JPG, class: Barbaris, score: 62.41728663444519% 
+
+ file_number: 346, name: photo_2020-05-11_17-07-23.jpg, class: Mistral_grechka_farm, score: 97.57779836654663% 
+
+ file_number: 347, name: 274.JPG, class: Sadi_pridoniya_sok_abricos, score: 43.91062259674072% 
+
+ file_number: 348, name: photo_2020-05-11_17-03-20.jpg, class: Carmex, score: 0.4750849213451147% 
+
+ file_number: 349, name: photo_2020-05-11_17-09-09.jpg, class: Tequila, score: 72.09385633468628% 
+
+ file_number: 350, name: 190.JPG, class: Leps, score: 82.66516327857971% 
+
+ file_number: 351, name: photo_2020-05-11_17-08-57.jpg, class: Risotto_tartufo, score: 96.20357155799866% 
+
+ file_number: 352, name: photo_2020-05-11_17-06-21.jpg, class: Vologodskaya_malina, score: 23.443245887756348% 
+
+ file_number: 353, name: 330.JPG, class: Leps, score: 52.48013138771057% 
+
+ file_number: 354, name: 228.JPG, class: Leps, score: 59.43199396133423% 
+
+ file_number: 355, name: 259.JPG, class: Heinz_kasha_tykwa, score: 68.33918690681458% 
+
+ file_number: 356, name: 19.JPG, class: Barbaris, score: 56.845349073410034% 
+
+ file_number: 357, name: photo_2020-05-11_16-57-42.jpg, class: MKB_Pogidaev, score: 10.247733443975449% 
+
+ file_number: 358, name: photo_2020-05-11_17-12-37.jpg, class: Risotto_porcino, score: 60.12975573539734% 
+
+ file_number: 359, name: 280.JPG, class: Dom_v_kotorom, score: 37.81205117702484% 
+
+ file_number: 360, name: 65.JPG, class: Muesli_ogo, score: 24.856369197368622% 
+
+ file_number: 361, name: photo_2020-05-11_17-01-34.jpg, class: MiT_Matnishyan, score: 91.59305095672607% 
+
+ file_number: 362, name: 303.JPG, class: Fruto_nyanya_apple_banana, score: 69.58107948303223% 
+
+ file_number: 363, name: photo_2020-05-11_17-01-37.jpg, class: MKB_Pogidaev, score: 29.055088758468628% 
+
+ file_number: 364, name: 160.JPG, class: Tide, score: 90.35210013389587% 
+
+ file_number: 365, name: 129.JPG, class: Heinz_kasha_tykwa, score: 79.5056164264679% 
+
+ file_number: 366, name: 13.JPG, class: Baryer, score: 83.55290293693542% 
+
+ file_number: 367, name: 8.JPG, class: Koska_delight, score: 88.24044466018677% 
+
+ file_number: 368, name: photo_2020-05-11_17-10-00.jpg, class: Voda_antipodes, score: 98.70103597640991% 
+
+ file_number: 369, name: 179.JPG, class: Adlin, score: 40.94241261482239% 
+
+ file_number: 370, name: 165.JPG, class: Sadaka_tea, score: 96.65004014968872% 
+
+ file_number: 371, name: 237.JPG, class: Nestle_ovsyanaya_kasha, score: 35.72109639644623% 
+
+ file_number: 372, name: 92.JPG, class: Dolce_Albero_cake, score: 0.6774535868316889% 
+
+ file_number: 373, name: photo_2020-05-11_17-02-02.jpg, class: MiT_Losev, score: 67.28869080543518% 
+
+ file_number: 374, name: 170.JPG, class: Sadi_pridoniya_sok_abricos, score: 26.50660276412964% 
+
+ file_number: 375, name: photo_2020-05-11_17-06-38.jpg, class: Mistal_grecha, score: 63.596510887145996% 
+
+ file_number: 376, name: 248.JPG, class: Barhatnie_ruchki, score: 45.933207869529724% 
+
+ file_number: 377, name: 100.JPG, class: Sadi_pridoniya_pure_apple, score: 30.446845293045044% 
+
+ file_number: 378, name: photo_2020-05-11_17-04-00.jpg, class: Leps, score: 91.67144298553467% 
+
+ file_number: 379, name: photo_2020-05-11_17-09-15.jpg, class: Tequila, score: 90.29594659805298% 
+
+ file_number: 380, name: 324.JPG, class: Barbaris, score: 31.820085644721985% 
+
+ file_number: 381, name: 195.JPG, class: Voda_Heney_kid_1L, score: 96.38772010803223% 
+
+ file_number: 382, name: 120.JPG, class: Dolce_Albero_cake, score: 46.183452010154724% 
+
+ file_number: 383, name: photo_2020-05-11_17-02-34.jpg, class: MKB_Pogidaev, score: 46.977391839027405% 
+
+ file_number: 384, name: photo_2020-05-11_17-05-48.jpg, class: Oil_amarant, score: 72.28643894195557% 
+
+ file_number: 385, name: 136.JPG, class: Korovka_iz_korenovki_sguchonka, score: 46.59670293331146% 
+
+ file_number: 386, name: 130.JPG, class: Plombir_fistashka, score: 62.55660057067871% 
+
+ file_number: 387, name: 157.JPG, class: Heinz_fruits_pure, score: 77.43691802024841% 
+
+ file_number: 388, name: photo_2020-05-11_17-05-55.jpg, class: Mistral_grechka_farm, score: 15.764467418193817% 
+
+ file_number: 389, name: photo_2020-05-11_17-09-40.jpg, class: Leps, score: 91.88743829727173% 
+
+ file_number: 390, name: 48.JPG, class: Tide, score: 96.70977592468262% 
+
+ file_number: 391, name: photo_2020-05-11_17-04-36.jpg, class: Leps, score: 95.05199790000916% 
+
+ file_number: 392, name: 314.JPG, class: Heinz_fruits_salad, score: 14.195956289768219% 
+
+ file_number: 393, name: photo_2020-05-11_17-09-24.jpg, class: Tequila, score: 92.88421273231506% 
+
+ file_number: 394, name: photo_2020-05-11_17-02-13.jpg, class: MKB_Pogidaev, score: 30.619406700134277% 
+
+ file_number: 395, name: photo_2020-05-11_17-07-35.jpg, class: Mistal_ris_indika, score: 60.01980900764465% 
+
+ file_number: 396, name: photo_2020-05-11_17-00-31.jpg, class: MiT_Losev, score: 60.6095552444458% 
+
+ file_number: 397, name: 284.JPG, class: Heinz_fruits_salad, score: 79.77098226547241% 
+
+ file_number: 398, name: 249.JPG, class: Oil_gretsky_orex, score: 19.484923779964447% 
+
+ file_number: 399, name: 262.JPG, class: Risotto_tartufo, score: 9.481189399957657% 
+
+ file_number: 400, name: 53.JPG, class: Oil_of_black_Tmin, score: 80.88687658309937% 
+
+ file_number: 401, name: photo_2020-05-11_17-04-24.jpg, class: Leps, score: 96.31319046020508% 
+
+ file_number: 402, name: photo_2020-05-11_17-10-03.jpg, class: Voda_antipodes, score: 96.85208797454834% 
+
+ file_number: 403, name: 211.JPG, class: Adlin, score: 91.18617177009583% 
+
+ file_number: 404, name: photo_2020-05-11_16-59-18.jpg, class: MiT_Losev, score: 56.869882345199585% 
+
+ file_number: 405, name: photo_2020-05-11_17-07-08.jpg, class: Vologodskaya_malina, score: 49.64427649974823% 
+
+ file_number: 406, name: 254.JPG, class: Heinz_fruits_salad, score: 52.08659768104553% 
+
+ file_number: 407, name: photo_2020-05-11_17-08-29.jpg, class: Dolce_Albero_cake, score: 36.88153028488159% 
+
+ file_number: 408, name: photo_2020-05-11_17-02-47.jpg, class: Alfa_bank_Nikolaeva, score: 50.48022270202637% 
+
+ file_number: 409, name: 199.JPG, class: Heinz_ketchup, score: 45.01918852329254% 
+
+ file_number: 410, name: 151.JPG, class: Dolce_Albero_cake, score: 34.891557693481445% 
+
+ file_number: 411, name: 58.JPG, class: Greenfield, score: 56.787121295928955% 
+
+ file_number: 412, name: 281.JPG, class: Vernel, score: 37.229493260383606% 
+
+ file_number: 413, name: photo_2020-05-11_17-09-57.jpg, class: Voda_antipodes, score: 96.70493006706238% 
+
+ file_number: 414, name: 180.JPG, class: Sanitaizer_zero, score: 27.509552240371704% 
+
+ file_number: 415, name: photo_2020-05-11_17-02-20.jpg, class: MiT_Losev, score: 22.783197462558746% 
+
+ file_number: 416, name: 28.JPG, class: Leps, score: 94.22199726104736% 
+
+ file_number: 417, name: photo_2020-05-11_17-04-47.jpg, class: Bessmertnik, score: 35.26347279548645% 
+
+ file_number: 418, name: photo_2020-05-11_17-12-40.jpg, class: Risotto_porcino, score: 73.03696274757385% 
+
+ file_number: 419, name: photo_2020-05-11_17-00-51.jpg, class: MiT_Losev, score: 95.6708014011383% 
+
+ file_number: 420, name: 326.JPG, class: Greenfield, score: 39.640772342681885% 
+
+ file_number: 421, name: 54.JPG, class: Plombir_choco, score: 42.08255112171173% 
+
+ file_number: 422, name: 292.JPG, class: Heinz_kasha_tykwa, score: 65.94842672348022% 
+
+ file_number: 423, name: photo_2020-05-11_17-03-12.jpg, class: Carmex, score: 17.374536395072937% 
+
+ file_number: 424, name: photo_2020-05-11_17-04-51.jpg, class: Geksoral_rastvor, score: 31.393355131149292% 
+
+ file_number: 425, name: 294.JPG, class: Sanitaizer_zero, score: 71.10036015510559% 
+
+ file_number: 426, name: 176.JPG, class: Sensiro_Suru_cream, score: 97.06512689590454% 
+
+ file_number: 427, name: photo_2020-05-11_17-07-26.jpg, class: Mistral_grechka_farm, score: 96.97775840759277% 
+
+ file_number: 428, name: 97.JPG, class: Dolce_Albero_cake, score: 42.253994941711426% 
+
+ file_number: 429, name: 189.JPG, class: Adlin, score: 92.1138048171997% 
+
+ file_number: 430, name: 236.JPG, class: Risotto_porcino, score: 50.89236497879028% 
+
+ file_number: 431, name: 308.JPG, class: Plombir_fistashka, score: 91.95294380187988% 
+
+ file_number: 432, name: 173.JPG, class: Vernel, score: 76.63061618804932% 
+
+ file_number: 433, name: 16.JPG, class: Sadi_pridoniya_spure_vishnya, score: 80.37512302398682% 
+
+ file_number: 434, name: 139.JPG, class: Golden_virgina_orig, score: 18.47079247236252% 
+
+ file_number: 435, name: photo_2020-05-11_17-01-55.jpg, class: MiT_Losev, score: 73.82596731185913% 
+
+ file_number: 436, name: 188.JPG, class: Baryer, score: 79.35680150985718% 
+
+ file_number: 437, name: photo_2020-05-11_17-01-27.jpg, class: MiT_Losev, score: 92.39134192466736% 
+
+ file_number: 438, name: 111.JPG, class: Sadi_pridoniya_sok_vishnya, score: 56.53623938560486% 
+
+ file_number: 439, name: 73.JPG, class: Plombir_fistashka, score: 94.64596509933472% 
+
+ file_number: 440, name: 215.JPG, class: Mens_peris, score: 89.79794383049011% 
+
+ file_number: 441, name: 141.JPG, class: Korovka_iz_korenovki_sguchonka, score: 32.777297496795654% 
+
+ file_number: 442, name: photo_2020-05-11_17-03-31.jpg, class: Carmex, score: 98.34522604942322% 
+
+ file_number: 443, name: photo_2020-05-11_17-05-44.jpg, class: Leps, score: 58.82900357246399% 
+
+ file_number: 444, name: 169.JPG, class: Fruto_nyanya_apple_banana, score: 73.40538501739502% 
+
+ file_number: 445, name: 226.JPG, class: Plombir_fistashka, score: 94.31177377700806% 
+
+ file_number: 446, name: photo_2020-05-11_17-03-24.jpg, class: Carmex, score: 28.9871484041214% 
+
+ file_number: 447, name: photo_2020-05-11_17-00-12.jpg, class: Taustin_S, score: 4.787994921207428% 
+
+ file_number: 448, name: 240.JPG, class: Voda_Agusha_5L, score: 87.41444945335388% 
+
+ file_number: 449, name: photo_2020-05-11_17-00-20.jpg, class: MKB_Filippenkov, score: 43.12845170497894% 
+
+ file_number: 450, name: photo_2020-05-11_17-05-31.jpg, class: Oil_amarant, score: 43.0118054151535% 
+
+ file_number: 451, name: 109.JPG, class: Sanitaizer_zero, score: 59.579575061798096% 
+
+ file_number: 452, name: 36.JPG, class: Dolce_Albero_cake, score: 58.522218465805054% 
+
+ file_number: 453, name: photo_2020-05-11_17-09-21.jpg, class: Tequila, score: 93.24406385421753% 
+
+ file_number: 454, name: 83.JPG, class: Dom_v_kotorom, score: 80.84639310836792% 
+
+ file_number: 455, name: 261.JPG, class: Heinz_kasha_tykwa, score: 85.29095649719238% 
+
+ file_number: 456, name: 332.JPG, class: Nestle_ovsyanaya_kasha, score: 49.017930030822754% 
+
+ file_number: 457, name: 1.JPG, class: Dolce_Albero_cake, score: 40.922972559928894% 
+
+ file_number: 458, name: 364.JPG, class: Sadaka_tea, score: 96.57936096191406% 
+
+ file_number: 459, name: 355.JPG, class: Sadi_pridoniya_pure_apple, score: 62.11307644844055% 
+
+ file_number: 460, name: 82.JPG, class: Baryer, score: 78.42831015586853% 
+
+ file_number: 461, name: 289.JPG, class: Derbent, score: 19.786182045936584% 
+
+ file_number: 462, name: 116.JPG, class: Plombir_choco, score: 56.04477524757385% 
+
+ file_number: 463, name: photo_2020-05-11_17-08-11.jpg, class: Mistal_ris_indika, score: 91.02321863174438% 
+
+ file_number: 464, name: 115.JPG, class: Nestle_ovsyanaya_kasha, score: 59.97169613838196% 
+
+ file_number: 465, name: 85.JPG, class: Sadaka_tea, score: 94.72730755805969% 
+
+ file_number: 466, name: photo_2020-05-11_16-59-14.jpg, class: MiT_Losev, score: 56.795501708984375% 
+
+ file_number: 467, name: photo_2020-05-11_17-06-40.jpg, class: Mistal_grecha, score: 45.58207988739014% 
+
+ file_number: 468, name: 328.JPG, class: Heinz_fruits_pure, score: 87.84597516059875% 
+
+ file_number: 469, name: 247.JPG, class: Muesli_ogo, score: 77.91744470596313% 
+
+ file_number: 470, name: 42.JPG, class: Adlin, score: 61.173707246780396% 
+
+ file_number: 471, name: photo_2020-05-11_17-02-16.jpg, class: MKB_Pogidaev, score: 19.690822064876556% 
+
+ file_number: 472, name: photo_2020-05-11_17-12-21.jpg, class: Mens_peris, score: 23.6939936876297% 
+
+ file_number: 473, name: 218.JPG, class: Sadi_pridoniya_sok_grusha, score: 40.69325923919678% 
+
+ file_number: 474, name: 298.JPG, class: Vernel, score: 64.0704333782196% 
+
+ file_number: 475, name: 155.JPG, class: Sadi_pridoniya_pure_apple, score: 79.02272343635559% 
+
+ file_number: 476, name: 105.JPG, class: Voda_Agusha_5L, score: 22.816073894500732% 
+
+ file_number: 477, name: 134.JPG, class: Barhatnie_ruchki, score: 48.25231432914734% 
+
+ file_number: 478, name: 315.JPG, class: Sadaka_tea, score: 91.16469621658325% 
+
+ file_number: 479, name: 256.JPG, class: Sangria, score: 29.374903440475464% 
+
+ file_number: 480, name: 41.JPG, class: Adlin, score: 91.3330078125% 
+
+ file_number: 481, name: photo_2020-05-11_17-05-51.jpg, class: Oil_amarant, score: 67.23745465278625% 
+
+ file_number: 482, name: photo_2020-05-11_17-05-15.jpg, class: Bessmertnik, score: 93.34803223609924% 
+
+ file_number: 483, name: 30.JPG, class: Heinz_kasha_tykwa, score: 92.44694709777832% 
+
+ file_number: 484, name: photo_2020-05-11_17-05-08.jpg, class: Bessmertnik, score: 91.98817610740662% 
+
+ file_number: 485, name: 152.JPG, class: Vitamin_AE_forte, score: 23.518233001232147% 
+
+ file_number: 486, name: 265.JPG, class: Heinz_fruits_pure, score: 29.45055067539215% 
+
+ file_number: 487, name: 40.JPG, class: Sensiro_Suru_cream, score: 92.81634092330933% 
+
+ file_number: 488, name: 44.JPG, class: Sadi_pridoniya_sok_vishnya, score: 90.5363380908966% 
+
+ file_number: 489, name: photo_2020-05-11_17-02-41.jpg, class: Alfa_bank_Nikolaeva, score: 50.48022270202637% 
+
+ file_number: 490, name: photo_2020-05-11_17-04-44.jpg, class: Kalendula, score: 23.658592998981476% 
+
+ file_number: 491, name: 108.JPG, class: Sadi_pridoniya_spure_vishnya, score: 75.44312477111816% 
+
+ file_number: 492, name: 135.JPG, class: Sanitaizer_zero, score: 92.80294179916382% 
+
+ file_number: 493, name: 263.JPG, class: Cornline_bar, score: 20.988403260707855% 
+
+ file_number: 494, name: 272.JPG, class: Heinz_kasha_tykwa, score: 93.16927790641785% 
+
+ file_number: 495, name: 3.JPG, class: Tide, score: 97.16978073120117% 
+
+ file_number: 496, name: photo_2020-05-11_17-03-04.jpg, class: MiT_Losev, score: 59.51159596443176% 
+
+ file_number: 497, name: 35.JPG, class: Givenchy_mascara, score: 51.512330770492554% 
+
+ file_number: 498, name: photo_2020-05-11_17-08-26.jpg, class: Mistal_ris_indika, score: 91.55877828598022% 
+
+ file_number: 499, name: 138.JPG, class: Heinz_kasha_tykwa, score: 96.74087166786194% 
+
+ file_number: 500, name: 333.JPG, class: Heinz_kasha_tykwa, score: 86.39698624610901% 
+
+ file_number: 501, name: 81.JPG, class: Risotto_tartufo, score: 38.94810974597931% 
+
+ file_number: 502, name: photo_2020-05-11_17-06-44.jpg, class: Vologodskaya_malina, score: 36.722010374069214% 
+
+ file_number: 503, name: 182.JPG, class: Sadi_pridoniya_sok_vishnya, score: 34.49188768863678% 
+
+ file_number: 504, name: 204.JPG, class: Barhatnie_ruchki, score: 71.8113362789154% 
+
+ file_number: 505, name: 277.JPG, class: Barbaris, score: 90.90592861175537% 
+
+ file_number: 506, name: 7.JPG, class: Koska_halva, score: 96.79277539253235% 
+
+ file_number: 507, name: 99.JPG, class: Tide, score: 98.26158285140991% 
+
+ file_number: 508, name: 37.JPG, class: Vernel, score: 68.24212670326233% 
+
+ file_number: 509, name: 214.JPG, class: Koska_delight, score: 28.799596428871155% 
+
+ file_number: 510, name: photo_2020-05-11_16-59-00.jpg, class: MiT_Losev, score: 2.309814654290676% 
+
+ file_number: 511, name: photo_2020-05-11_17-04-16.jpg, class: Leps, score: 96.4109718799591% 
+
+ file_number: 512, name: photo_2020-05-11_16-59-42.jpg, class: Alfa_bank_Sereda, score: 63.068997859954834% 
+
+ file_number: 513, name: 362.JPG, class: Baryer, score: 37.04376220703125% 
+
+ file_number: 514, name: photo_2020-05-11_17-06-15.jpg, class: Mistal_grecha, score: 33.99766385555267% 
+
+ file_number: 515, name: 187.JPG, class: Heinz_fruits_pure, score: 60.01094579696655% 
+
+ file_number: 516, name: 32.JPG, class: Nestle_ovsyanaya_kasha, score: 38.2533997297287% 
+
+ file_number: 517, name: 177.JPG, class: Muesli_ogo, score: 33.37882161140442% 
+
+ file_number: 518, name: 287.JPG, class: Sadi_pridoniya_spure_vishnya, score: 62.83005475997925% 
+
+ file_number: 519, name: 70.JPG, class: Dom_v_kotorom, score: 29.385662078857422% 
+
+ file_number: 520, name: photo_2020-05-11_17-02-23.jpg, class: MKB_Pogidaev, score: 58.9145302772522% 
+
+ file_number: 521, name: 174.JPG, class: Heinz_kasha_tykwa, score: 47.752684354782104% 
+
+ file_number: 522, name: 86.JPG, class: Heinz_fruits_salad, score: 39.85820412635803% 
+
+ file_number: 523, name: photo_2020-05-11_17-06-02.jpg, class: Oil_amarant, score: 65.43939113616943% 
+
+ file_number: 524, name: photo_2020-05-11_17-08-35.jpg, class: Dolce_Albero_cake, score: 40.03754258155823% 
+
+ file_number: 525, name: 253.JPG, class: Risotto_tartufo, score: 37.36925721168518% 
+
+ file_number: 526, name: 181.JPG, class: Sadi_pridoniya_spure_vishnya, score: 80.09206056594849% 
+
+ file_number: 527, name: photo_2020-05-11_17-06-55.jpg, class: Chocopie, score: 10.737328231334686% 
+
+ file_number: 528, name: photo_2020-05-11_17-08-47.jpg, class: Risotto_tartufo, score: 95.51383852958679% 
+
+ file_number: 529, name: 209.JPG, class: Plombir_choco, score: 45.54368257522583% 
+
+ file_number: 530, name: 104.JPG, class: Mens_peris, score: 80.58210611343384% 
+
+ file_number: 531, name: 150.JPG, class: Koska_delight, score: 65.02229571342468% 
+
+ file_number: 532, name: 197.JPG, class: Koska_halva, score: 85.32712459564209% 
+
+ file_number: 533, name: 270.JPG, class: Sangria, score: 53.030067682266235% 
+
+ file_number: 534, name: 351.JPG, class: Mens_peris, score: 26.763659715652466% 
+
+ file_number: 535, name: 106.JPG, class: Sadaka_tea, score: 71.60252332687378% 
+
+ file_number: 536, name: 88.JPG, class: Voda_antipodes, score: 51.14278793334961% 
+
+ file_number: 537, name: 353.JPG, class: Koska_delight, score: 85.37334203720093% 
+
+ file_number: 538, name: photo_2020-05-11_17-08-18.jpg, class: Mistal_ris_indika, score: 78.82386445999146% 
+
+ file_number: 539, name: 246.JPG, class: Sadi_pridoniya_sok_grusha, score: 51.183176040649414% 
+
+ file_number: 540, name: photo_2020-05-11_17-01-09.jpg, class: MiT_Losev, score: 7.297438383102417% 
+
+ file_number: 541, name: photo_2020-05-11_16-59-32.jpg, class: MiT_Losev, score: 7.142995297908783% 
+
+ file_number: 542, name: 167.JPG, class: Baryer, score: 51.23128890991211% 
+
+ file_number: 543, name: 290.JPG, class: Sadi_pridoniya_pure_apple, score: 67.4567699432373% 
+
+ file_number: 544, name: photo_2020-05-11_17-09-01.jpg, class: Tequila, score: 72.74055480957031% 
+
+ file_number: 545, name: 338.JPG, class: Sadi_pridoniya_sok_grusha, score: 63.89518976211548% 
+
+ file_number: 546, name: 175.JPG, class: Koska_halva, score: 84.34553742408752% 
+
+ file_number: 547, name: 62.JPG, class: Risotto_porcino, score: 50.77568292617798% 
+
+ file_number: 548, name: photo_2020-05-11_17-06-09.jpg, class: Oil_amarant, score: 73.14711809158325% 
+
+ file_number: 549, name: photo_2020-05-11_17-05-12.jpg, class: Bessmertnik, score: 83.06785225868225% 
+
+ file_number: 550, name: photo_2020-05-11_17-09-54.jpg, class: Leps, score: 95.37960886955261% 
+
+ file_number: 551, name: 72.JPG, class: Richman_ceylon, score: 18.262268602848053% 
+
+ file_number: 552, name: 172.JPG, class: Plombir_choco, score: 75.90857744216919% 
+
+ file_number: 553, name: 309.JPG, class: Barbaris, score: 86.90866827964783% 
+Time spend in seconds: 1718.747386932373
